@@ -1,0 +1,1 @@
+The program demonstrates the capabilities of the Telebot library, which allows you to create your own Telegram bot, as well as the capabilities of the OpenWeatherMap resource, which allows users to get weather information for a specific city. This program combines these two libraries.
